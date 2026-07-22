@@ -14,17 +14,11 @@
   <img src="https://img.shields.io/badge/Devpost-briyan-003E54?style=for-the-badge&logo=devpost&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=B347FF&center=true&vCenter=true&width=680&lines=Final-Year+Software+Engineering+%40+UNSW+(80+WAM);Ex-Training+Lead+%40+DevSoc;I+build+things+end-to-end+%E2%80%94+Figma+to+production;4x+Hackathon+Winner;Competitive+Programmer+%40+ICPC+%2F+SPAR+%2F+ALLUNI" alt="Typing SVG"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=MundaneDragon&label=Profile+Views&color=7b2ff7&style=flat-square"/>
-
 </div>
-
-<br/>
 
 ## 👋 About Me
 
@@ -105,6 +99,8 @@ Final-year Software Engineering student at UNSW, chasing the moment a hard probl
 <br/>
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MundaneDragon&label=Profile+Views&color=7b2ff7&style=flat-square"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:7b2ff7&height=100&section=footer" width="100%"/>
 
