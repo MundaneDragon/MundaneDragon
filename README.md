@@ -22,11 +22,11 @@
 
 ## 👋 About Me
 
-Final-year Software Engineering student at UNSW, chasing the moment a hard problem finally clicks — whether that's an algorithmic puzzle in a contest or a nasty bug in production.
+Final-year Software Engineering student at UNSW, chasing the moment a hard problem finally clicks - whether that's an algorithmic puzzle in a contest or a nasty bug in production.
 
 - 🎓 Final-year @ UNSW, graduating early **2027**
 - 👨‍🏫 Ex-Training Lead @ **DevSoc** · UNSW Leadership Foundation alum
-- 🏆 Won or placed in **4 hackathons** — UNIHACK 2026, CSESoc x2, DevSoc
+- 🏆 Won or placed in **4 hackathons** - UNIHACK 2026, CSESoc x2, DevSoc
 - ⚡ Competing in **ICPC**, **SPAR**, and **ALLUNI**
 - 💬 Looking for Software Engineering roles where I can ship real systems at scale
 
