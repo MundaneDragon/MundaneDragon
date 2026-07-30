@@ -2,7 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2ff7,100:1a1a2e&height=180&section=header&text=Briyan%20Biju&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Competitive%20Programmer&descAlignY=65&descSize=17" width="100%"/>
 
-<p align="center"><a href="https://www.linkedin.com/in/briyanbiju"><img src="https://img.shields.io/badge/LinkedIn-briyanbiju-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="mailto:briyanbijum@gmail.com"><img src="https://img.shields.io/badge/Email-briyanbijum%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://devpost.com/briyan"><img src="https://img.shields.io/badge/Devpost-briyan-003E54?style=flat-square&logo=devpost&logoColor=white"/></a></p>
+<br/><br/>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/briyanbiju"><img src="https://img.shields.io/badge/LinkedIn-briyanbiju-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="mailto:briyanbijum@gmail.com"><img src="https://img.shields.io/badge/Email-briyanbijum%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://devpost.com/briyan"><img src="https://img.shields.io/badge/Devpost-briyan-003E54?style=flat-square&logo=devpost&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=800&color=B347FF&center=true&vCenter=true&width=550&lines=Final-Year+Software+Engineering+%40+UNSW+(80+WAM);Ex-Training+Lead+%40+DevSoc;I+build+things+end-to-end+%E2%80%94+Figma+to+production;4x+Hackathon+Winner;Competitive+Programmer+%40+ICPC+%2F+SPAR+%2F+ALLUNI" alt="Typing SVG"/>
 
