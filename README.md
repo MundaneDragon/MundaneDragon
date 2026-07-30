@@ -4,16 +4,16 @@
 
 <br/><br/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/briyanbiju"><img src="https://img.shields.io/badge/LinkedIn-briyanbiju-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0;">
+      <a href="https://www.linkedin.com/in/briyanbiju"><img src="https://img.shields.io/badge/LinkedIn-briyanbiju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     </td>
-    <td align="center">
-      <a href="mailto:briyanbijum@gmail.com"><img src="https://img.shields.io/badge/Email-briyanbijum%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <td align="center" style="border: none; padding: 0;">
+      <a href="mailto:briyanbijum@gmail.com"><img src="https://img.shields.io/badge/Email-briyanbijum%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </td>
-    <td align="center">
-      <a href="https://devpost.com/briyan"><img src="https://img.shields.io/badge/Devpost-briyan-003E54?style=flat-square&logo=devpost&logoColor=white"/></a>
+    <td align="center" style="border: none; padding: 0;">
+      <a href="https://devpost.com/briyan"><img src="https://img.shields.io/badge/Devpost-briyan-003E54?style=for-the-badge&logo=devpost&logoColor=white"/></a>
     </td>
   </tr>
 </table>
