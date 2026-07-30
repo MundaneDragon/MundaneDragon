@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-briyanbiju-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briyanbiju) [![Email](https://img.shields.io/badge/Email-briyanbijum%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:briyanbijum@gmail.com) [![Devpost](https://img.shields.io/badge/Devpost-briyan-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/briyan)
+<a href="https://www.linkedin.com/in/briyanbiju"><img src="https://img.shields.io/badge/LinkedIn-briyanbiju-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="mailto:briyanbijum@gmail.com"><img src="https://img.shields.io/badge/Email-briyanbijum%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://devpost.com/briyan"><img src="https://img.shields.io/badge/Devpost-briyan-003E54?style=flat-square&logo=devpost&logoColor=white"/></a>
 
 <br/><br/>
 
