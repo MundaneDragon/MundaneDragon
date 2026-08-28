@@ -55,7 +55,7 @@ Final-year Software Engineering student at UNSW, chasing the moment a hard probl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MundaneDragon&bg_color=1a1a2e&color=c9d1d9&line=B347FF&point=ffffff&area_color=7b2ff7&title_color=B347FF&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph-five-khaki.vercel.app/graph?username=MundaneDragon&bg_color=1a1a2e&color=c9d1d9&line=B347FF&point=ffffff&area_color=7b2ff7&title_color=B347FF&hide_border=true" width="95%"/>
 
 <br/><br/>
 
