@@ -55,16 +55,16 @@ Final-year Software Engineering student at UNSW, chasing the moment a hard probl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-five-khaki.vercel.app/graph?username=MundaneDragon&bg_color=1a1a2e&color=c9d1d9&line=B347FF&point=ffffff&area_color=7b2ff7&title_color=B347FF&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph-five-khaki.vercel.app/graph?username=MundaneDragon&bg_color=1a1a2e&color=c9d1d9&line=B347FF&point=ffffff&area_color=7b2ff7&title_color=B347FF&hide_border=true&cache_seconds=1800&v=1" width="95%"/>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats-nine-delta-26.vercel.app/api?username=MundaneDragon&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats-nine-delta-26.vercel.app/api/top-langs/?username=MundaneDragon&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=B347FF&text_color=c9d1d9"/>
+<img height="200" src="https://github-readme-stats-nine-delta-26.vercel.app/api?username=MundaneDragon&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&card_width=430&cache_seconds=1800&v=1"/>
+<img height="200" src="https://github-readme-stats-nine-delta-26.vercel.app/api/top-langs/?username=MundaneDragon&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=B347FF&text_color=c9d1d9&langs_count=10&card_width=430&cache_seconds=1800&v=1"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-ija3.onrender.com/?user=MundaneDragon&theme=radical&hide_border=true&background=1a1a2e&ring=B347FF&fire=B347FF&currStreakLabel=B347FF" width="65%"/>
+<img src="https://github-readme-streak-stats-ija3.onrender.com/?user=MundaneDragon&theme=radical&hide_border=true&background=1a1a2e&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&v=1" width="65%"/>
 
 </div>
 
@@ -74,7 +74,7 @@ Final-year Software Engineering student at UNSW, chasing the moment a hard probl
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Mundane_Dragon?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/Mundane_Dragon?theme=dark&font=Fira%20Code&ext=activity&v=1" alt="LeetCode Stats"/>
 
 </div>
 
@@ -84,7 +84,7 @@ Final-year Software Engineering student at UNSW, chasing the moment a hard probl
 
 <div align="center">
 
-<img src="https://github-profile-trophy-two-tau.vercel.app/?username=MundaneDragon&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-profile-trophy-two-tau.vercel.app/?username=MundaneDragon&theme=radical&no-frame=true&no-bg=true&row=1&column=6&v=1"/>
 
 </div>
 
