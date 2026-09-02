@@ -1,0 +1,40 @@
+name: Refresh README stat images
+
+# Runs once a day and updates the cache-busting "v=" parameter on every
+# image URL in README.md so GitHub's camo proxy is forced to fetch a
+# fresh copy from github-readme-stats / streak-stats / activity-graph
+# instead of serving a stale cached image.
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at 00:00 UTC — edit if you want a different time
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab too
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Bump cache-busting version params
+        run: |
+          TODAY=$(date +'%Y%m%d')
+          # Replace any existing v=<something> with today's date, across all
+          # image query strings in README.md
+          sed -i -E "s/([?&]v=)[^&\"']*/\1${TODAY}/g" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git commit -m "chore: refresh README stat image cache [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
